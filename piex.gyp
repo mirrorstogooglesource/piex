@@ -19,12 +19,12 @@
   'sources': [
     'src/piex.cc',
     'src/piex_cr3.cc',
-    'src/piex_cr3.h',
     'src/tiff_parser.cc',
   ],
   'variables': {
     'headers': [
       'src/piex.h',
+      'src/piex_cr3.h',
       'src/piex_types.h',
       'src/tiff_parser.h',
     ],
