@@ -18,6 +18,8 @@
   'type': 'static_library',
   'sources': [
     'src/piex.cc',
+    'src/piex_cr3.cc',
+    'src/piex_cr3.h',
     'src/tiff_parser.cc',
   ],
   'variables': {
