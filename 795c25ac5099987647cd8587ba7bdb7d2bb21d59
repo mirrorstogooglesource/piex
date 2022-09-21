@@ -16,6 +16,24 @@
       "message": "i assume you meant to keep the OWNERS file, since that\u0027s not expected to be upstream?",
       "revId": "795c25ac5099987647cd8587ba7bdb7d2bb21d59",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fee010fe_69b081d2",
+        "filename": "OWNERS",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1003224
+      },
+      "writtenOn": "2022-09-21T19:48:42Z",
+      "side": 0,
+      "message": "oh, i see it is ... ugh, i hate google3 projects!\n\n(we should add an OWNERS.android with the android maintainers in that case, but that should probably be kept separate since it\u0027s not a regression.)",
+      "parentUuid": "65bce977_4259ed15",
+      "revId": "795c25ac5099987647cd8587ba7bdb7d2bb21d59",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
